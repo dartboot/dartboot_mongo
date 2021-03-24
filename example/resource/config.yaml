@@ -18,8 +18,8 @@ database:
   mongo:
     db1:
       hosts:
-      - 192.168.1.225:27017
-      username: root
-      password: root
-      db: ksb-weixin
+      - 192.168.1.xx:27017
+      username: xxxx
+      password: xxxx
+      db: xxx
       pool-size: 10

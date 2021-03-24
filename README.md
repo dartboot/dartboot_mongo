@@ -11,7 +11,7 @@ A simple usage example:
 import 'package:dartboot_mongo/dartboot_mongo.dart';
 
 main() {
-  var awesome = new Awesome();
+  mongoClient.db('db1');
 }
 ```
 
