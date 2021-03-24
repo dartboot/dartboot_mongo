@@ -1,0 +1,22 @@
+name: dartboot_mongo
+description: Mongo pool client for DartBoot.
+version: 1.0.0
+homepage: https://github.com/dartboot/dartboot_mongo
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  dartboot_db: ^1.0.1
+  dartboot_util: ^1.0.0
+  dartboot_core: ^1.0.10
+  dartboot_annotation: ^1.0.0
+  mongo_dart_query: ^0.4.2
+  mutex: ^1.1.0
+  bson: ^0.3.4
+  collection: ^1.14.13
+  crypto: ^2.1.5
+  pool: ^1.4.0
+  build: ^1.2.2
+  build_runner: ^1.9.0
+  source_gen: ^0.9.4+6

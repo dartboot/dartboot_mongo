@@ -1,0 +1,80 @@
+[2021-03-24 14:20:01:311 :default:8701:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-24 14:20:01:316 :default:8701:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-24 14:20:01:316 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 0 controllers.
+[2021-03-24 14:20:01:316 :default:8701:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-24 14:20:01:316 :default:8701:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-24 14:20:01:316 :default:8701:] [U: T:] [INFO] HttpServer: Server started on port:8701 and context path:[/dartboot].
+[2021-03-24 14:20:01:316 :default:8701:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-24 14:21:40:226 :default:8701:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-24 14:21:40:231 :default:8701:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-24 14:21:40:231 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 0 controllers.
+[2021-03-24 14:21:40:231 :default:8701:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-24 14:21:40:231 :default:8701:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-24 14:21:40:231 :default:8701:] [U: T:] [INFO] HttpServer: Server started on port:8701 and context path:[/dartboot].
+[2021-03-24 14:21:40:231 :default:8701:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-24 14:22:41:352 :default:8701:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-24 14:22:41:357 :default:8701:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-24 14:22:41:357 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 0 controllers.
+[2021-03-24 14:22:41:357 :default:8701:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-24 14:22:41:358 :default:8701:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-24 14:22:41:358 :default:8701:] [U: T:] [INFO] HttpServer: Server started on port:8701 and context path:[/dartboot].
+[2021-03-24 14:22:41:358 :default:8701:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-24 14:23:59:781 :default:8701:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-24 14:23:59:787 :default:8701:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-24 14:23:59:787 :default:8701:] [U: T:] [INFO] MongoConnectionPool: Start to prepare connections for pool Instance of 'ConnectionPool' with fill: false...
+[2021-03-24 14:23:59:787 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 1 controllers.
+[2021-03-24 14:23:59:787 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-24 14:23:59:787 :default:8701:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-24 14:23:59:787 :default:8701:] [U: T:] [INFO] MongoConnectionPool: Start to prepare connections for pool Instance of 'ConnectionPool' with fill: true...
+[2021-03-24 14:23:59:787 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-24 14:23:59:788 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-24 14:23:59:788 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-24 14:23:59:788 :default:8701:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-24 14:23:59:788 :default:8701:] [U: T:] [INFO] HttpServer: Server started on port:8701 and context path:[/dartboot].
+[2021-03-24 14:23:59:788 :default:8701:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-24 14:24:21:848 :default:8701:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-24 14:24:21:853 :default:8701:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-24 14:24:21:853 :default:8701:] [U: T:] [INFO] MongoConnectionPool: Start to prepare connections for pool Instance of 'ConnectionPool' with fill: false...
+[2021-03-24 14:24:21:853 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 1 controllers.
+[2021-03-24 14:24:21:853 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-24 14:24:21:853 :default:8701:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-24 14:24:21:853 :default:8701:] [U: T:] [INFO] MongoConnectionPool: Start to prepare connections for pool Instance of 'ConnectionPool' with fill: true...
+[2021-03-24 14:24:21:853 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-24 14:24:21:854 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-24 14:24:21:854 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-24 14:24:21:854 :default:8701:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-24 14:24:21:854 :default:8701:] [U: T:] [INFO] HttpServer: Server started on port:8701 and context path:[/dartboot].
+[2021-03-24 14:24:21:854 :default:8701:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-24 14:24:23:596 :default:8701:] [U: T:] [INFO] MongoConnectionPool: Pool ready with 10 connections.
+[2021-03-24 14:24:23:599 :default:8701:] [U: T:] [INFO] MongoConnectionPool: Pool filled successfully with new 10 connections.
+[2021-03-24 14:25:23:715 :default:8701:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-24 14:25:23:720 :default:8701:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-24 14:25:23:720 :default:8701:] [U: T:] [INFO] MongoConnectionPool: Start to prepare connections for pool Instance of 'ConnectionPool' with fill: false...
+[2021-03-24 14:25:23:720 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 1 controllers.
+[2021-03-24 14:25:23:720 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-24 14:25:23:720 :default:8701:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-24 14:25:23:720 :default:8701:] [U: T:] [INFO] MongoConnectionPool: Start to prepare connections for pool Instance of 'ConnectionPool' with fill: true...
+[2021-03-24 14:25:23:720 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-24 14:25:23:721 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-24 14:25:23:721 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-24 14:25:23:721 :default:8701:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-24 14:25:23:721 :default:8701:] [U: T:] [INFO] HttpServer: Server started on port:8701 and context path:[/dartboot].
+[2021-03-24 14:25:23:721 :default:8701:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-24 14:25:25:502 :default:8701:] [U: T:] [INFO] MongoConnectionPool: Pool ready with 10 connections.
+[2021-03-24 14:25:25:510 :default:8701:] [U: T:] [INFO] MongoConnectionPool: Pool filled successfully with new 10 connections.
+[2021-03-24 15:08:10:605 :default:8701:] [U: T:] [INFO] DartBootApplication: Start to scan annotated classes in application...
+[2021-03-24 15:08:10:611 :default:8701:] [U: T:] [INFO] DartBootApplication: Dynamic class -> [BuildContext] loaded.
+[2021-03-24 15:08:10:611 :default:8701:] [U: T:] [INFO] MongoConnectionPool: Start to prepare connections for pool Instance of 'ConnectionPool' with fill: false...
+[2021-03-24 15:08:10:611 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController scan finished. Total 1 controllers.
+[2021-03-24 15:08:10:611 :default:8701:] [U: T:] [INFO] DartBootApplication: RestController: Symbol("EurekaClientEndpoint") registered.
+[2021-03-24 15:08:10:611 :default:8701:] [U: T:] [INFO] DartBootApplication: All annotated classes scanned.
+[2021-03-24 15:08:10:611 :default:8701:] [U: T:] [INFO] MongoConnectionPool: Start to prepare connections for pool Instance of 'ConnectionPool' with fill: true...
+[2021-03-24 15:08:10:611 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[GET /health] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-24 15:08:10:612 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /shutdown] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-24 15:08:10:612 :default:8701:] [U: T:] [INFO] HttpServer: Bind api:[POST /register] to controller:[Symbol("EurekaClientEndpoint")]
+[2021-03-24 15:08:10:612 :default:8701:] [U: T:] [INFO] HttpServer: Start to bind http server to local host...
+[2021-03-24 15:08:10:612 :default:8701:] [U: T:] [INFO] HttpServer: Server started on port:8701 and context path:[/dartboot].
+[2021-03-24 15:08:10:612 :default:8701:] [U: T:] [INFO] DartBootApplication: Application startup completed.
+[2021-03-24 15:08:12:401 :default:8701:] [U: T:] [INFO] MongoConnectionPool: Pool ready with 10 connections.
+[2021-03-24 15:08:12:405 :default:8701:] [U: T:] [INFO] MongoConnectionPool: Pool filled successfully with new 10 connections.
+[2021-03-24 16:24:46:017 :default:8701:] [U: T:] [SEVERE] Connection: Socket error SocketException: OS Error: Operation timed out, errno = 60, address = 192.168.1.225, port = 49388 
